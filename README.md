@@ -7,4 +7,4 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable varInspector/main
 ## Week3: Loops
 ## Week4: Satellite Data Analysis
-## Week5: Spatial Autocorrelation(Global Moran's I)
+## Week5: Spatial Autocorrelation(Global Moran's I) & NDVI
